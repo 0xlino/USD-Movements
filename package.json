@@ -1,0 +1,19 @@
+{
+	"name": "usd-movements",
+	"version": "0.0.1",
+	"description": "I am the watcher :)",
+	"main": "index.js",
+	"dependencies": {
+		"bee-alerts": "^1.0.2",
+		"chalk": "^4.1.2",
+		"dotenv": "^16.4.5",
+		"ethers": "^5.7.0",
+		"log-symbols": "^4.1.0",
+		"meow": "^9.0.0",
+		"play-sound": "^1.1.5",
+		"prompts": "^2.4.2"
+	},
+	"devDependencies": {
+		"prettier": "^2.7.1"
+	}
+}
