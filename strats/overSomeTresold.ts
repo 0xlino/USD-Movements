@@ -1,6 +1,6 @@
-import { 
+import {
     formatPriceBigNumber,
- } from '../utils'
+} from '../utils'
 
 import fs from 'fs'
 
